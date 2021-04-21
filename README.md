@@ -1,4 +1,9 @@
 ### Hi there 👋
+I am Strada, 14 years old developer.
+
+🔭 I’m currently working on Aurora Client.
+
+🌱 I’m currently learning JavaScript.
 
 <!--
 **NotStrada/NotStrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
