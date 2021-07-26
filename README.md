@@ -1,9 +1,9 @@
 ### Hi there 👋
-I am Strada, 14 years old developer.
+I am Strada, 15 years old developer from Portugal.
 
-🔭 I’m currently working on Aurora Client.
+🔭 I’m currently working on Aurora Proxy Tool.
 
-🌱 I’m currently learning JavaScript.
+🌱 I’m currently learning C#.
 
 <!--
 **NotStrada/NotStrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
