@@ -3,7 +3,7 @@ I am Strada, 15 years old developer from Portugal.
 
 🔭 I’m not currently working on a project.
 
-🌱 I’m currently learning HTML, CSS, JS.
+🌱 I’m currently learning tkinter (python), requests (python).
 
 <!--
 **NotStrada/NotStrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
