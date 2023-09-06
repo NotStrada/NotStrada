@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Strada, 15 years old developer from Portugal.
+I am Strada, 17 years old developer from Portugal.
 
 🔭 I’m not currently working on a project.
 
